@@ -22,15 +22,15 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rishabhdarji" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="rishabhdarji" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/13671433" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13671433" height="30" width="40" /></a>
-<a href="https://instagram.com/rishabhdarji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishabhdarji" height="30" width="40" /></a>
-<a href="https://dribbble.com/rishabhdarji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="rishabhdarji" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rishabh darji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishabh darji" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13671433" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" alt="13671433" height="30" width="40" /></a>
+<a href="https://instagram.com/rishabhdarji" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" alt="rishabhdarji" height="30" width="40" /></a>
+<a href="https://dribbble.com/rishabhdarji" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/dribbble-icon.svg" alt="rishabhdarji" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/rishabh darji" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="rishabh darji" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rishabhdarji" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rishabhdarji" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rishabhdarji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rishabhdarji" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rishabhdarji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishabhdarji" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@rishabh.darji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rishabh.darji" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rishabhdarji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rishabhdarji" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rishabhdarji" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="rishabhdarji" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rishabhdarji" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="rishabhdarji" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@rishabh.darji" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/800px-HackerEarth_logo.png" alt="@rishabh.darji" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rishabhdarji" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" alt="rishabhdarji" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
